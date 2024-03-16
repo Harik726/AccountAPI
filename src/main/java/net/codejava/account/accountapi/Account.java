@@ -3,11 +3,6 @@ package net.codejava.account.accountapi;
 import jakarta.persistence.*;
 import lombok.*;
 
-/**
- * Created by Thilak
- * Created on 16/03/24.
- * Class: Account.java
- */
 @Entity
 @Data
 @NoArgsConstructor
