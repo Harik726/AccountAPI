@@ -7,11 +7,6 @@ import org.springframework.stereotype.Service;
 import javax.security.auth.login.AccountNotFoundException;
 import java.util.List;
 
-/**
- * Created by Thilak
- * Created on 16/03/24.
- * Class: AccountService.java
- */
 @Service
 @Transactional
 public class AccountService {

@@ -13,11 +13,6 @@ import java.util.List;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 
-/**
- * Created by Thilak
- * Created on 16/03/24.
- * Class: controller.java
- */
 @RestController
 @RequestMapping("/api/accounts")
 public class controller {

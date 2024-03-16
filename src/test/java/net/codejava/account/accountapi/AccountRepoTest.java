@@ -4,11 +4,7 @@ import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.autoconfigure.orm.jpa.DataJpaTest;
 
-/**
- * Created by Thilak
- * Created on 16/03/24.
- * Class: AccountRepoTest.java
- */
+
 @DataJpaTest
 public class AccountRepoTest {
 //    @Autowired

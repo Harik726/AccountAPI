@@ -8,11 +8,7 @@ import org.springframework.hateoas.server.RepresentationModelAssembler;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.linkTo;
 import static org.springframework.hateoas.server.mvc.WebMvcLinkBuilder.methodOn;
 
-/**
- * Created by Thilak
- * yreated on 16/03/24.
- * Class: AccountModelAssembler.java
- */
+
 @Configuration
 public class AccountModelAssembler implements RepresentationModelAssembler<Account, EntityModel<Account>> {
 
